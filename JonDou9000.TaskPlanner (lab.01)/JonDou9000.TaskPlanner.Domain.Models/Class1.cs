@@ -1,11 +1,6 @@
 ﻿using JonDou9000.TaskPlanner.Domain.Models.Enums;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-// JonDou9000.TaskPlanner.Domain.Models/Enums/Priority.cs
 namespace JonDou9000.TaskPlanner.Domain.Models.Enums
 {
     public enum Priority
@@ -18,7 +13,6 @@ namespace JonDou9000.TaskPlanner.Domain.Models.Enums
     }
 }
 
-// JonDou9000.TaskPlanner.Domain.Models/Enums/Complexity.cs
 namespace JonDou9000.TaskPlanner.Domain.Models.Enums
 {
     public enum Complexity
