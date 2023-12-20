@@ -25,8 +25,6 @@ namespace JonDou9000.TaskPlanner.Domain.Models.Enums
     }
 }
 
-
-
 namespace JonDou9000.TaskPlanner.Domain.Models
 {
     public class WorkItem
