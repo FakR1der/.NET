@@ -7,12 +7,8 @@ internal static class Program
 {
     public static void Main(string[] args)
     {
-        // Ваш код тут
-        // Наприклад, введення робочих елементів і виклик CreatePlan для впорядкування.
-
         var taskPlanner = new SimpleTaskPlanner();
 
-        // Приклад ініціалізації робочих елементів (замініть на свої дані)
         var workItems = new WorkItem[]
         {
             new WorkItem { Title = "Task 1", DueDate = DateTime.Now.AddDays(3), Priority = Priority.High },
@@ -22,13 +18,11 @@ internal static class Program
 
         var sortedWorkItems = taskPlanner.CreatePlan(workItems);
 
-        // Вивід відсортованих робочих елементів
         foreach (var item in sortedWorkItems)
         {
             Console.WriteLine(item);
         }
 
-        // Затримка, щоб консольне вікно не закрилося відразу після виводу результатів
         Console.ReadLine();
     }
 }
