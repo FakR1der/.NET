@@ -1,4 +1,3 @@
-﻿// JonDou9000.TaskPlanner.Domain.Logic/SimpleTaskPlanner.cs
 using System;
 using System.Collections.Generic;
 using JonDou9000.TaskPlanner.Domain.Models;
@@ -16,8 +15,6 @@ namespace JonDou9000.TaskPlanner.Domain.Logic
 
         private static int CompareWorkItems(WorkItem firstItem, WorkItem secondItem)
         {
-            // Implement your comparison logic here
-            // Example: Priority descending, DueDate ascending, Title alphabetical
             if (firstItem.Priority != secondItem.Priority)
                 return secondItem.Priority.CompareTo(firstItem.Priority);
 
