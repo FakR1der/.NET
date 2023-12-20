@@ -1,0 +1,12 @@
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\3 курс\.NET\JonDou9000.TaskPlanner (lab.01)\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
